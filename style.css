@@ -1,4 +1,29 @@
 body{
     margin: 0px;
+    display: flex;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    display: flex;
+}
+ul{
+    display: flex
+}
+li{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+.nav-item{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
 
+}
+.nav-item-selected{
+    display: flex;
+    
 }

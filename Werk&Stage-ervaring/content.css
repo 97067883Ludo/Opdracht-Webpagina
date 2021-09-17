@@ -1,0 +1,14 @@
+.center{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.content{
+    background-color: #304B63;
+    width: 700px;
+    align-items: center;
+
+}
+section{
+    align-items: flex-start;
+}

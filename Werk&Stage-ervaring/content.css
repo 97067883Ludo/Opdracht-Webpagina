@@ -1,14 +1,19 @@
-.center{
-    margin-top: 20px;
+.widthWrapper{
+    width: auto;
+    height: auto;
+}
+.center-collum{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+article{
+    width: 700px;
+    margin-top: 10px;
+    background-color: aquamarine;
+}
+.headingFirstSection{
     display: flex;
     justify-content: center;
-}
-.content{
-    background-color: #304B63;
-    width: 700px;
-    align-items: center;
-
-}
-.firstSection{
-    align-items: flex-start;
 }

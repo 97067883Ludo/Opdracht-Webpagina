@@ -18,7 +18,6 @@ nav{
 .nav-item-selected{
     text-decoration: none;
     border-radius: 25px;
-    width: fit-content;
     background-color: #8FB9AA;
     padding: 10px;
     margin-right: 40px;
@@ -27,7 +26,6 @@ nav{
 .nav-item{
     text-decoration: none;
     border-radius: 25px;
-    width: fit-content;
     padding: 10px;
     background-color: #F2D096;
     margin-right: 40px;
@@ -36,7 +34,6 @@ nav{
 .nav-item:hover{
     text-decoration: none;
     border-radius: 25px;
-    width: fit-content;
     padding: 10px;
     background-color: #B2E7E8;
     margin-right: 40px;

@@ -2,7 +2,7 @@
     width: auto;
     height: auto;
 }
-.center-collum{
+.center-collumn{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -16,4 +16,11 @@ article{
 .headingFirstSection{
     display: flex;
     justify-content: center;
+    font-size: xx-large;
+}
+#Company-header{
+    width: max-content;
+}
+h2:hover{
+    cursor: pointer;
 }

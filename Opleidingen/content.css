@@ -1,0 +1,9 @@
+article{
+    width: 700px;
+    background-color: aquamarine;
+    margin-top: 10px;
+}
+.headerOpleidingen{
+    display: flex;
+    justify-content: center;
+}

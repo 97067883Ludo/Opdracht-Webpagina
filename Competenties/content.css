@@ -1,0 +1,13 @@
+.competenties{
+    margin-top: 10px;
+    width: 705px;
+    background-color: aquamarine;
+}
+.headerCompetenties{
+    display: flex;
+    justify-content: center;
+}
+.paragraph{
+
+    padding-left: 5px;
+}
